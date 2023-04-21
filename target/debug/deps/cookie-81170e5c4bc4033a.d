@@ -1,0 +1,12 @@
+C:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\cookie-81170e5c4bc4033a.rmeta: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\builder.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\parse.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\jar.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\delta.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\draft.rs
+
+C:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\libcookie-81170e5c4bc4033a.rlib: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\builder.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\parse.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\jar.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\delta.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\draft.rs
+
+C:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\cookie-81170e5c4bc4033a.d: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\builder.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\parse.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\jar.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\delta.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\draft.rs
+
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\lib.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\builder.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\parse.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\jar.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\delta.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.5\src\draft.rs:

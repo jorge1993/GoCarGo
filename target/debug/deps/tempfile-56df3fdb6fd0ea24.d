@@ -1,0 +1,12 @@
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\tempfile-56df3fdb6fd0ea24.rmeta: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs
+
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\tempfile-56df3fdb6fd0ea24.d: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs
+
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\lib.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\dir.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\error.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\mod.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\mod.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\spooled.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\util.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.3.0\src\file\imp\windows.rs:

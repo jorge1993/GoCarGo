@@ -1,0 +1,12 @@
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\rand_core-36d79d2ceb05c8d9.rmeta: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\librand_core-36d79d2ceb05c8d9.rlib: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\rand_core-36d79d2ceb05c8d9.d: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs:

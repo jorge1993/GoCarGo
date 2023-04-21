@@ -1,0 +1,12 @@
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\glyph_brush-724991a310388932.rmeta: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\extra.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_brush.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_brush\builder.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_calculator.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\owned_section.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\section.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\legacy.rs
+
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\glyph_brush-724991a310388932.d: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\extra.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_brush.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_brush\builder.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_calculator.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\owned_section.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\section.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\legacy.rs
+
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\lib.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\extra.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_brush.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_brush\builder.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\glyph_calculator.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\owned_section.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\section.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\glyph_brush-0.7.5\src\legacy.rs:

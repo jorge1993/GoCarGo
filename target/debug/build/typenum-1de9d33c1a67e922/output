@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\build\typenum-1de9d33c1a67e922\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\build\typenum-1de9d33c1a67e922\out\op.rs

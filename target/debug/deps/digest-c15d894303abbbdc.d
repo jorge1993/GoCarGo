@@ -1,0 +1,12 @@
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\digest-c15d894303abbbdc.rmeta: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\ct_variable.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\rt_variable.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\wrapper.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\xof_reader.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\digest.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\mac.rs
+
+c:\Users\Jorge\Documents\Github\GoCarGo\target\debug\deps\digest-c15d894303abbbdc.d: C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\lib.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\ct_variable.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\rt_variable.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\wrapper.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\xof_reader.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\digest.rs C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\mac.rs
+
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\lib.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\ct_variable.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\rt_variable.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\wrapper.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\xof_reader.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\digest.rs:
+C:\Users\Jorge\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\mac.rs:
